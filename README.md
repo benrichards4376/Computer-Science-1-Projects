@@ -1,5 +1,5 @@
 # Computer-Science-1-Projects
-This contains descriptions of projects I completed while taking Computer Science 1 at UCF. My instructor, Dr. Szumlanski has instructed to not share any code from his projects under threat of legal action. I have a private repository containing all the code, which I am allowed to share with potential employers, but cannot be made public for the aforementioned reason.
+This contains descriptions of projects I completed while taking Computer Science 1 at UCF. My instructor, Dr. Szumlanski has instructed to not share any code from his projects under threat of legal action. I have a private repository containing all the code, which I am allowed to share with potential employers, but cannot be made public for the aforementioned reason. This repo does have code I created from scratch while learning the class, just not the actual assignments.
 
 Numeronym- print a sentence given the following rules:
  -if a word is shorter than 5 characters, print as normal.
